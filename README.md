@@ -1,2 +1,2 @@
 # Word Correcter
- Prolog ile kelime düzzeltme
+ Prolog ile kelime düzeltme
